@@ -1,0 +1,1 @@
+This project implements a Video Graphics Array (VGA) module in SystemVerilog for the Basys 3 FPGA board, enabling high-quality graphics display on a VGA monitor. The implementation includes a VGA controller for timing and synchronization, along with a drawing canvas application that allows users to create drawings using directional buttons and color selection switches.
